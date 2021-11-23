@@ -1,0 +1,10 @@
+.start {
+  background: linear-gradient(200deg, #cab6db, #dbd796);
+  height: 100vh;
+  display: flex;
+
+  &__btn {
+    margin: auto;
+    padding: 20px 40px;
+  }
+}
